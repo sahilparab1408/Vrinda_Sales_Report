@@ -1,0 +1,20 @@
+1. Data Cleaning
+- Checked are there any null values
+- In Gender Column Replaced M with Men and W with Women.
+- In Qunatity Column Replaced One with 1 and Two with 2.
+
+2. Data Processing
+- Inserted a Column named "Age Group" applied if else condition =IF(E2>=50,"Senior",IF(E2>=30,"Adult","Teenager"))
+- Inserted a Column named "Month" ,copied the date column changed the format to month through Custom.
+
+3. Data Analysis
+- 1. Compare Sales and Order using Single Chart
+a. Done Using Pivot Table, By Selecting Count of Order ID and Average of Amount
+b. Then remove grand total and Select entire table and create Pivot Chart and Select Combo and click select on Secondary axis.
+	
+4. Insights
+- Orders: Age & Gender - Most no of sales is in Adults which are women
+- Sales Top 5 States: Tamil Nadu,Telangana, Uttar Pradesh, karnataka, Maharashtra
+- Orders Vs Sales: Most no of Sales in March 
+- Orders : Chanels - Most no of Sales is done by Amazon as it is 35.48%
+- Order Status: Refunded: 2%, Returned: 3%, Cancelled: 3%, Delivered: 92%
