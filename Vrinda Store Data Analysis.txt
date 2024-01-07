@@ -1,3 +1,6 @@
+Objective
+Vrinda Stores want to create an annual Sales report for 2022. So that , Vrinda can undrestand their customers and grow more sales in 2023.
+
 1. Data Cleaning
 - Checked are there any null values
 - In Gender Column Replaced M with Men and W with Women.
@@ -8,13 +11,24 @@
 - Inserted a Column named "Month" ,copied the date column changed the format to month through Custom.
 
 3. Data Analysis
-- 1. Compare Sales and Order using Single Chart
-a. Done Using Pivot Table, By Selecting Count of Order ID and Average of Amount
-b. Then remove grand total and Select entire table and create Pivot Chart and Select Combo and click select on Secondary axis.
+Age and Gender: Used a column chart.
+Top States: Created a cluster bar chart for the top 5 states.
+Sales Overview: Employed a combo chart for order vs sales.
+Order Details: Visualized order channels and statuses with pie charts.
+Gender Sales Breakdown: Used a pie chart to differentiate men vs. women sales.
+Interactive Filters: Implemented slicers for month, channel, and category.
 	
-4. Insights
-- Orders: Age & Gender - Most no of sales is in Adults which are women
-- Sales Top 5 States: Tamil Nadu,Telangana, Uttar Pradesh, karnataka, Maharashtra
-- Orders Vs Sales: Most no of Sales in March 
-- Orders : Chanels - Most no of Sales is done by Amazon as it is 35.48%
-- Order Status: Refunded: 2%, Returned: 3%, Cancelled: 3%, Delivered: 92%
+4.Key Insights:
+
+1. Orders: Age & Gender - Most sales come from adult women.
+2. Sales Top 5 States: Tamil Nadu, Telangana, Uttar Pradesh, Karnataka, Maharashtra.
+3. Orders Vs Sales: Peak sales observed in March.
+4. Orders: Channels - Amazon leads with 35.48% of total sales.
+5. Order Status: Delivered: 92%, Refunded: 2%, Returned: 3%, Cancelled: 3%.
+
+Additional Insights:
+
+1. Women are more likely to buy compared to men (~65%).
+2. Top States: Maharashtra, Karnataka, and Uttar Pradesh lead in sales.
+3. Adult age group (30-49 yrs) contributes the most (around 50%).
+4. Popular Channels: Amazon, Flipkart, and Myntra are major contributors.
