@@ -1,4 +1,4 @@
-# Sales Report for Vrinda
+# Sales Report for Vrinda Store
 
 ## Project Overview:
 
