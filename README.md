@@ -3,7 +3,7 @@
 ## Project Overview:
 
 ### Project Objective:
-  - Generate a comprehensive [Vrinda Sales Report(PDF](https://github.com/sahilparab1408/Excel-Project-2/blob/main/Vrinda%20Store%20Data%20Analysis.pdf).
+  - Generate a comprehensive [Vrinda Sales Report(PDF)](https://github.com/sahilparab1408/Excel-Project-2/blob/main/Vrinda%20Store%20Data%20Analysis.pdf).
   - The objective is to analyze and present key metrics, allowing stakeholders to gain insights into customer behavior, preferences, and interactions.
   - This report aims to inform strategic decisions and improve overall customer satisfaction.
  
